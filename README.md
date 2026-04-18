@@ -12,7 +12,7 @@ This project uses Machine Learning (Logistic Regression) to predict whether a us
 - Male
 - Clicked on Ad (Target Variable)
 
-## Project Steps
+## Assignment Steps
 1. Data Loading and Exploration
 2. Exploratory Data Analysis using Seaborn
 3. Train/Test Split
