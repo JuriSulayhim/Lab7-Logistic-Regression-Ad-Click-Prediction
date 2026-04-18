@@ -30,4 +30,4 @@ This project uses Machine Learning (Logistic Regression) to predict whether a us
 Achieved approximately **91% accuracy** on test data.
 
 ## Author
-Joury Sla
+Juri Sulayhim 2250040086
